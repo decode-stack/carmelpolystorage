@@ -8,7 +8,7 @@
   <p align="center">
 
 ###
-This is a storage available for students studying at carmel polytechnic college!This is a AI Bot It works by connecting to the WhatsApp baileys Web socket!Which send notes and study materials via WhatsApp!
+This is a AI Bot It works through WhatsApp baileys Web socket!Which send notes and study materials via WhatsApp for students!
 
 ### NOTICE 🇩🇪
 
@@ -19,4 +19,4 @@ This repository does not belong to Carmel polytechnic college!
 
 Click this link to contact admin wa.me/916235989299
 
-## Bot number will be publish soon
+## Bot number will be publish after May's Diploma Examination😹
