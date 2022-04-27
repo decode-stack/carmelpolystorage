@@ -18,3 +18,5 @@ This repository does not belong to Carmel polytechnic college!
 ### 📞 Contact Admin.sh?
 
 Click this link to contact admin wa.me/916235989299
+
+## Bot number will be publish soon
